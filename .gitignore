@@ -1,0 +1,26 @@
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+.venv/
+env/
+.env/
+
+# OS Specific generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# VS Code / IDE settings (optional but good practice)
+.vscode/
+.idea/
+
+# Local app data (If you ever save the history log to a local file)
+history.json
